@@ -6,3 +6,4 @@ from .models import Content
 class ContentViewSet(viewsets.ModelViewSet):
 	queryset= Content.objects.all().order_by('content')
 	serializer_class = ContentSerializer
+# Create your views here.
