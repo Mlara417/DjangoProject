@@ -4,7 +4,7 @@
 1. Clone repository
 2. create virtual environment ```python3 -m venv env```
 3. activate environment ```source env/bin/activate```. 
-4. Windows users use to activate environment```source env/Scripts/activate```
+4. Windows users use following snippet to activate environment```source env/Scripts/activate```
 5. Install Django ```pip install django```
 6. Install Django rest framework ```pip install djangorestframework```
 7. Go into project directory ```cd DjangoProject```
